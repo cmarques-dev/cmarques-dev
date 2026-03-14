@@ -1,8 +1,9 @@
 # 👨‍💻 Carlos Marques
 
-**`Desenvolvedora Backend Jr`**
+**`Desenvolvedor Jr`**
 
-Me chamo Carlos Marques, tenho 19 anos e sou de Mirassol. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNILAGO.
+Me chamo Carlos Marques, tenho 19 anos e sou de Mirassol. 
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNILAGO.
 
 <p align="left">
     <a href="https://github.com/cmarques-dev?tab=repositories&sort=stargazers">
@@ -45,6 +46,10 @@ Me chamo Carlos Marques, tenho 19 anos e sou de Mirassol. Atualmente, estou curs
 <br/>
 <br/>
 
+
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -53,14 +58,14 @@ Me chamo Carlos Marques, tenho 19 anos e sou de Mirassol. Atualmente, estou curs
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cmarques-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=cmarques-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarques-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarques-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
