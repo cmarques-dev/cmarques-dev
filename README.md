@@ -5,25 +5,6 @@
 Me chamo Carlos Marques, tenho 19 anos e sou de Mirassol. 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNILAGO.
 
-<p align="left">
-    <a href="https://github.com/cmarques-dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cmarques-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/cmarques-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cmarques-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 💻 Linguagens e Tecnologias
 
 <img 
