@@ -1,52 +1,21 @@
-# 👨‍💻 Carlos Marques
+# Carlos Marques
 
-**`Desenvolvedor Jr`**
+Desenvolvedor Back-End focado em C#, .NET, REST APIs e desenvolvimento de sistemas escaláveis.
 
-Me chamo Carlos Marques, tenho 19 anos e sou de Mirassol. 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNILAGO.
+## 🚀 Sobre mim
 
-### 💻 Linguagens e Tecnologias
+Atualmente estudo e desenvolvo aplicações utilizando C# e .NET, com foco em boas práticas e arquitetura de software.
+Tenho interesse em performance, escalabilidade e evolução contínua no desenvolvimento back-end.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+## ⚡ Tecnologias
 
-<br/>
-<br/>
+- C#
+- .NET
+- REST APIs
+- SQL & NoSQL
+- Git/GitHub
 
+## 🎓 Formação
 
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cmarques-dev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarques-dev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+**Tecnólogo em Analise e Desenvolvimento de Sistemas**  
+União das Faculdades dos Grandes Lagos — 2025 • 2027
