@@ -1,6 +1,6 @@
-# Carlos Marques
+# Carlos Marques👋
 
-Analista de Dados/Desenvolvedor Back-End focado em Python, SQL, REST APIs e desenvolvimento de sistemas escaláveis.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º semestre. Venho me dedicando à área de análise de dados e back-end com Python, e comecei recentemente a explorar banco de dados.
 
 ## 🚀 Sobre mim
 
