@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou [Seu Nome] 👋
+# Olá 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Estudante+de+ADS+-+3%C2%BA+semestre;Foco+em+An%C3%A1lise+de+Dados+e+Back-end+com+Python;Aprendendo+Banco+de+Dados" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Estudante+de+ADS+-+3%C2%BA+semestre;Foco+em+An%C3%A1lise+de+Dados+e+Back-end+com+Python" alt="Typing SVG" />
 
 </div>
 
@@ -24,19 +24,9 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º sem
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cmarques-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarques-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
 ## 📫 Contato
 
-- 💼 LinkedIn: [seu-usuario](https://linkedin.com/in/seu-usuario)
-- ✉️ E-mail: seuemail@exemplo.com
+- 💼 LinkedIn: marquexzz(https://linkedin.com/in/marquexzz)
 
 ---
 
