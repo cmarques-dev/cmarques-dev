@@ -1,16 +1,15 @@
 # Carlos Marques
 
-Desenvolvedor Back-End focado em C#, .NET, REST APIs e desenvolvimento de sistemas escaláveis.
+Analista de Dados/Desenvolvedor Back-End focado em Python, SQL, REST APIs e desenvolvimento de sistemas escaláveis.
 
 ## 🚀 Sobre mim
 
-Atualmente estudo e desenvolvo aplicações utilizando C# e .NET, com foco em boas práticas e arquitetura de software.
+Atualmente estudo e desenvolvo aplicações utilizando Python e SQL, com foco em boas práticas e arquitetura de software.
 Tenho interesse em performance, escalabilidade e evolução contínua no desenvolvimento back-end.
 
 ## ⚡ Tecnologias
 
-- C#
-- .NET
+- Python
 - REST APIs
 - SQL & NoSQL
 - Git/GitHub
