@@ -1,10 +1,10 @@
 # Carlos Marques👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º semestre. Venho me dedicando à área de análise de dados e back-end com Python, e comecei recentemente a explorar banco de dados.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º semestre. Venho me dedicando à área de análise de dados e desenvolvimento com Python.
 
 ## 🚀 Sobre mim
 
-Atualmente estudo e desenvolvo aplicações utilizando Python e SQL, com foco em boas práticas e arquitetura de software.
+Atualmente estudo e desenvolvo aplicações utilizando Python e MySQL, com foco em boas práticas e arquitetura de software.
 Tenho interesse em performance, escalabilidade e evolução contínua no desenvolvimento back-end.
 
 ## ⚡ Tecnologias
